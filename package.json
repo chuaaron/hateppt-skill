@@ -1,0 +1,13 @@
+{
+  "name": "hateppt-skill",
+  "version": "1.0.0",
+  "description": "Universal HatePPT Presentation Skill for AI Agents (Claude Code, Hermes, Antigravity, Codex)",
+  "bin": {
+    "hateppt-skill": "./bin/install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "bin"
+  ],
+  "keywords": ["agent-skill", "claude-code", "marp", "presentation", "slides"]
+}
